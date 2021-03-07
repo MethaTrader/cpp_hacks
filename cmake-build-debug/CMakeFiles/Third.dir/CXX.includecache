@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Work/Projects/C++ Hacks/Third/ManageMemory.h
+iostream
+-
+Windows.h
+-
+string
+-
+
+D:/Work/Projects/C++ Hacks/Third/main.cpp
+iostream
+-
+Windows.h
+-
+string
+-
+ManageMemory.h
+D:/Work/Projects/C++ Hacks/Third/ManageMemory.h
+
